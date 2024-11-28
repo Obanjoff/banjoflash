@@ -21,3 +21,9 @@ criaCartao (
     'Como se diz oi em inglês?',
     'Oi em inglês se diz HI (RAI)'
 )
+
+criaCartao (
+    'Matemática',
+    'Qual é o número de PI(π)?',
+    'O número de PI é 3,141592653'
+)
